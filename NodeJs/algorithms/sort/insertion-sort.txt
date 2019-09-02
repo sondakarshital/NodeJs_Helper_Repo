@@ -1,0 +1,12 @@
+Grows sorted array from left to right.
+Stable algorithm
+Qudratic algorithm
+In place algorithm
+Assumes first element is at the sorted position
+
+
+var arr = [1,5,4,3,2,-1];
+
+steps : firstUnsrtedIndex = 1 to length of an array
+left part of the array will have the sorted values.
+

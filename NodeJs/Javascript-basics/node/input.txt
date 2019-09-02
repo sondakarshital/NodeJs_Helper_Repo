@@ -1,0 +1,5 @@
+When the moon reached its apogee — its farthest point from the Earth — the Chandrayaan 2 spacecraft's onboard thrusters will fire for a pre-determined period, generating just enough thrust to slow itself down for this 'lunar capture' phase. This controlled transfer event — breaking free from the Earth's orbit of influence and into the moon's — will unfold over several hours, estimated to end by 9.30 am IST on 20 August.
+
+The critical step will require the liquid apogee motors (thrusters) to be fired in the opposite direction to the spacecraft's movement, therefore slowing it down in a what's known as "retrofiring". This allow the spacecraft to come under the influence of the moon's orbit.
+
+With the location of the moon relative to the Earth and the Earth relative to the Sun constantly changing, the intersection of Chandrayaan 2's path with the moon's was predicted and planned well ahead of time.

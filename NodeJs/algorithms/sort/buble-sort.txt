@@ -1,0 +1,8 @@
+Bubble sort
+1. is a in-place algorithm
+2. O(n*n) time comlexity - qudratic
+3. it will take 100 steps to sort 10 items
+4. Algoritms degrades quickly.
+5. We will be having logical partision of an array
+4. Greater value will be bubbled to the end of an array.
+5.least efficient algorithm and stable one.
