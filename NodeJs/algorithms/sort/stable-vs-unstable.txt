@@ -1,2 +1,0 @@
-When the relative ordering of the duplicate element is not preserved then it is called 
-unstable algorithm.

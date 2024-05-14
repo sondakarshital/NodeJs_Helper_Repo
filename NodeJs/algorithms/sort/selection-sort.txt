@@ -1,5 +1,0 @@
-1. is a in-place algorithm
-2. O(n*n) time comlexity - qudratic
-3. it will take 100 steps to sort 10 items
-4. Doesn't require as much swapping as bubble sort.
-5. Unstable algorithm.
